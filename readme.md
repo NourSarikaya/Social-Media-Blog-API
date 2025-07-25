@@ -1,4 +1,5 @@
 📱 Social Media Blog API
+
 This project is a RESTful backend service for a hypothetical social media micro-blogging platform. It handles user account management and message operations such as creation, retrieval, updating, and deletion. The backend is designed following a 3-layer architecture (Controller, Service, DAO) and persists data using a relational database.
 
 💡 Project Overview
